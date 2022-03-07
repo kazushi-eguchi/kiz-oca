@@ -1,6 +1,6 @@
 {
     "name": "Product Configurator",
-    "version": "14.0.1.2.2",
+    "version": "14.0.1.2.3",
     "category": "Generic Modules/Base",
     "summary": "Base for product configuration interface modules",
     "author": "Pledra, Odoo Community Association (OCA)",
@@ -33,7 +33,7 @@
     "post_init_hook": "post_init_hook",
     "qweb": ["static/xml/create_button.xml"],
     "development_status": "Beta",
-    "maintainers": ["pcatinean"],
+    "maintainers": ["PCatinean"],
     "installable": True,
     "application": True,
     "auto_install": False,
